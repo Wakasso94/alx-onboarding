@@ -1,0 +1,31 @@
+﻿calculate the sum of squares of given input of numbers
+
+
+pseudo code
+
+
+Set counter i to 1
+
+
+Set SUM to 0
+
+
+    IF number I is greater or equal N
+
+
+       SQUARE receive i multiply by i
+
+
+       SUM receive SUM plus SQARE
+
+
+       //After that
+
+
+       i receive i + 1
+     
+    ELSE 
+
+
+       print SUM
+exit

@@ -1,0 +1,26 @@
+﻿Reads in three numbers and writes
+them all in sorted order
+
+
+Step 1: Start
+
+
+Step 2: Enter an integer value: a, b and c
+
+
+Step 3: Initialise a, b, c with 
+                      a is equal min
+                      b is equal mid
+                      c is equal max
+Step 4: IF min is greater than mid
+                 Then mid is equal to a and min is equal to b
+             ELSE IF min is not greater than mid go to the next condition
+             IF mid is greater than max
+                   Then max is equal to mid and mid is equal to c
+             ELSE IF mid is not greater than max go to the next condition
+             IF min is greater than mid
+                   Then mid is equal to min and min is equal to c
+Step 5: Print max, mid, min
+
+
+Step 6: Exit the program

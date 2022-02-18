@@ -1,0 +1,18 @@
+﻿Calculate a running sum
+
+
+Step 1: Start
+
+
+Step 2: Enter value of N
+
+
+Step 3: Initialise n is equal to N
+            SUM is equal to 0
+Step 4: while n is greater or equal to 0(n>=0)
+             SUM is equal to SUM + n
+             INPUT value of N
+             Initialize n is equal to N (n = N)
+Step 5: Exit the program when n is not greater or equal to 0
+Step6: Print SUM
+step 7: End
